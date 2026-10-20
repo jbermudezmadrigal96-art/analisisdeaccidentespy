@@ -1,0 +1,601 @@
+id_accidente,fecha,hora,departamento,causa_principal,tipo_vehiculo,sexo_conductor,lesionados,fallecidos,total_victimas,rango_horario
+1,2025-01-01,06:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Mañana
+2,2025-01-01,19:00,Managua,Estado de ebriedad,Motocicleta,Masculino,2,0,2,Noche
+3,2025-01-02,14:00,León,No guardar distancia,Automóvil,Masculino,1,0,1,Tarde
+4,2025-01-02,10:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Mañana
+5,2025-01-03,07:00,Estelí,Invasión de carril,Automóvil,Femenino,0,0,0,Mañana
+6,2025-01-03,20:00,Chinandega,Estado de ebriedad,Camión,Masculino,0,2,2,Noche
+7,2025-01-04,06:00,Managua,Exceso de velocidad,Automóvil,Masculino,2,0,2,Mañana
+8,2025-01-04,18:00,Managua,Estado de ebriedad,Automóvil,Masculino,1,0,1,Noche
+9,2025-01-05,22:00,Masaya,Exceso de velocidad,Bus,Masculino,0,0,0,Noche
+10,2025-01-05,10:00,León,Desperfectos mecánicos,Camión,Femenino,1,0,1,Mañana
+11,2025-01-06,10:00,Managua,No especificada,Bus,Masculino,0,0,0,Mañana
+12,2025-01-06,23:00,Managua,No especificada,Camión,Masculino,1,0,1,Noche
+13,2025-01-07,20:00,Masaya,No especificada,Motocicleta,Masculino,1,1,2,Noche
+14,2025-01-07,03:00,Managua,No especificada,Motocicleta,Masculino,2,0,2,Madrugada
+15,2025-01-08,07:00,Estelí,No especificada,Automóvil,Masculino,2,0,2,Mañana
+16,2025-01-08,23:00,Masaya,Estado de ebriedad,Motocicleta,Masculino,2,1,3,Noche
+17,2025-01-09,02:00,Managua,No guardar distancia,Automóvil,Femenino,0,0,0,Madrugada
+18,2025-01-09,21:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Noche
+19,2025-01-10,20:00,Matagalpa,Exceso de velocidad,Automóvil,Masculino,3,0,3,Noche
+20,2025-01-10,01:00,Chinandega,Invasión de carril,Automóvil,Masculino,1,0,1,Madrugada
+21,2025-01-11,23:00,Chinandega,Desperfectos mecánicos,Automóvil,Masculino,3,0,3,Noche
+22,2025-01-11,11:00,Estelí,Invasión de carril,Automóvil,Masculino,1,0,1,Mañana
+23,2025-01-12,05:00,Matagalpa,No guardar distancia,Camión,Masculino,1,0,1,Madrugada
+24,2025-01-12,01:00,Matagalpa,Desperfectos mecánicos,Motocicleta,Femenino,1,0,1,Madrugada
+25,2025-01-13,20:00,Masaya,No guardar distancia,Camión,Masculino,3,0,3,Noche
+26,2025-01-13,00:00,Chinandega,Exceso de velocidad,Motocicleta,Femenino,0,0,0,Madrugada
+27,2025-01-14,11:00,Managua,Desperfectos mecánicos,Bus,Femenino,0,0,0,Mañana
+28,2025-01-14,21:00,Masaya,No guardar distancia,Automóvil,Femenino,3,0,3,Noche
+29,2025-01-15,11:00,León,Exceso de velocidad,Motocicleta,Masculino,3,0,3,Mañana
+30,2025-01-15,16:00,Chinandega,Invasión de carril,Motocicleta,Masculino,2,0,2,Tarde
+31,2025-01-16,09:00,Matagalpa,Exceso de velocidad,Automóvil,Masculino,3,0,3,Mañana
+32,2025-01-16,15:00,Managua,Estado de ebriedad,Motocicleta,Femenino,0,1,1,Tarde
+33,2025-01-17,14:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Tarde
+34,2025-01-17,14:00,Managua,Exceso de velocidad,Automóvil,Masculino,1,0,1,Tarde
+35,2025-01-18,18:00,Chinandega,Estado de ebriedad,Automóvil,Masculino,1,0,1,Noche
+36,2025-01-18,11:00,Managua,No guardar distancia,Automóvil,Masculino,5,0,5,Mañana
+37,2025-01-19,22:00,Managua,No guardar distancia,Bus,Femenino,0,0,0,Noche
+38,2025-01-19,19:00,Managua,Exceso de velocidad,Automóvil,Femenino,1,1,2,Noche
+39,2025-01-20,02:00,León,Estado de ebriedad,Automóvil,Masculino,3,0,3,Madrugada
+40,2025-01-20,04:00,Masaya,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+41,2025-01-21,18:00,León,Invasión de carril,Automóvil,Masculino,2,0,2,Noche
+42,2025-01-21,06:00,Matagalpa,No guardar distancia,Motocicleta,Masculino,1,1,2,Mañana
+43,2025-01-22,20:00,Chinandega,Desperfectos mecánicos,Bus,Masculino,1,0,1,Noche
+44,2025-01-22,08:00,Managua,No guardar distancia,Camión,Femenino,2,1,3,Mañana
+45,2025-01-23,06:00,Estelí,No guardar distancia,Automóvil,Masculino,0,0,0,Mañana
+46,2025-01-23,17:00,Managua,Invasión de carril,Motocicleta,Masculino,2,0,2,Tarde
+47,2025-01-24,03:00,Matagalpa,Desperfectos mecánicos,Camión,Femenino,0,0,0,Madrugada
+48,2025-01-24,13:00,Managua,Invasión de carril,Camión,Masculino,0,0,0,Tarde
+49,2025-01-25,17:00,Matagalpa,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Tarde
+50,2025-01-25,08:00,Managua,Exceso de velocidad,Motocicleta,Femenino,2,0,2,Mañana
+51,2025-01-26,20:00,Estelí,Desperfectos mecánicos,Camión,Masculino,1,0,1,Noche
+52,2025-01-26,01:00,León,Invasión de carril,Motocicleta,Femenino,2,0,2,Madrugada
+53,2025-01-27,19:00,Matagalpa,No guardar distancia,Bus,Femenino,2,0,2,Noche
+54,2025-01-27,14:00,Managua,Desperfectos mecánicos,Motocicleta,Femenino,0,0,0,Tarde
+55,2025-01-28,06:00,León,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Mañana
+56,2025-01-28,11:00,Matagalpa,Estado de ebriedad,Camión,Masculino,4,0,4,Mañana
+57,2025-01-29,07:00,León,No guardar distancia,Motocicleta,Masculino,1,0,1,Mañana
+58,2025-01-29,14:00,León,Exceso de velocidad,Automóvil,Femenino,2,0,2,Tarde
+59,2025-01-30,02:00,Masaya,Invasión de carril,Motocicleta,Femenino,1,0,1,Madrugada
+60,2025-01-30,13:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Tarde
+61,2025-01-31,16:00,León,No guardar distancia,Automóvil,Masculino,0,0,0,Tarde
+62,2025-01-31,03:00,León,Desperfectos mecánicos,Automóvil,Masculino,1,0,1,Madrugada
+63,2025-02-01,17:00,Matagalpa,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Tarde
+64,2025-02-01,07:00,Managua,No guardar distancia,Camión,Masculino,1,0,1,Mañana
+65,2025-02-02,03:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,3,0,3,Madrugada
+66,2025-02-02,01:00,Matagalpa,Desperfectos mecánicos,Motocicleta,Femenino,1,0,1,Madrugada
+67,2025-02-03,05:00,Estelí,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Madrugada
+68,2025-02-03,21:00,Chinandega,Invasión de carril,Bus,Masculino,0,0,0,Noche
+69,2025-02-04,09:00,León,Invasión de carril,Camión,Masculino,0,0,0,Mañana
+70,2025-02-04,03:00,Managua,Estado de ebriedad,Automóvil,Masculino,1,0,1,Madrugada
+71,2025-02-05,21:00,Managua,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Noche
+72,2025-02-05,17:00,Chinandega,No guardar distancia,Motocicleta,Masculino,1,0,1,Tarde
+73,2025-02-06,11:00,Chinandega,No guardar distancia,Automóvil,Femenino,4,0,4,Mañana
+74,2025-02-06,01:00,León,No guardar distancia,Camión,Femenino,2,1,3,Madrugada
+75,2025-02-07,09:00,Managua,Estado de ebriedad,Automóvil,Masculino,1,0,1,Mañana
+76,2025-02-07,03:00,Matagalpa,Invasión de carril,Camión,Masculino,1,0,1,Madrugada
+77,2025-02-08,13:00,Matagalpa,Estado de ebriedad,Camión,Masculino,1,0,1,Tarde
+78,2025-02-08,15:00,Masaya,No guardar distancia,Motocicleta,Masculino,1,0,1,Tarde
+79,2025-02-09,14:00,León,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Tarde
+80,2025-02-09,07:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Mañana
+81,2025-02-10,13:00,Estelí,Invasión de carril,Motocicleta,Masculino,2,0,2,Tarde
+82,2025-02-10,22:00,Masaya,Invasión de carril,Camión,Masculino,1,0,1,Noche
+83,2025-02-11,07:00,Managua,Estado de ebriedad,Automóvil,Masculino,3,1,4,Mañana
+84,2025-02-11,20:00,Matagalpa,Invasión de carril,Automóvil,Femenino,0,0,0,Noche
+85,2025-02-12,15:00,Estelí,No guardar distancia,Motocicleta,Masculino,0,0,0,Tarde
+86,2025-02-12,12:00,Matagalpa,No guardar distancia,Motocicleta,Masculino,1,0,1,Tarde
+87,2025-02-13,17:00,Masaya,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Tarde
+88,2025-02-13,14:00,León,No guardar distancia,Motocicleta,Femenino,0,0,0,Tarde
+89,2025-02-14,20:00,Chinandega,Exceso de velocidad,Automóvil,Masculino,2,0,2,Noche
+90,2025-02-14,23:00,Matagalpa,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Noche
+91,2025-02-15,12:00,Estelí,Exceso de velocidad,Automóvil,Masculino,2,0,2,Tarde
+92,2025-02-15,08:00,Managua,Desperfectos mecánicos,Motocicleta,Femenino,2,0,2,Mañana
+93,2025-02-16,14:00,Managua,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Tarde
+94,2025-02-16,12:00,Chinandega,Desperfectos mecánicos,Motocicleta,Femenino,0,0,0,Tarde
+95,2025-02-17,00:00,Estelí,Desperfectos mecánicos,Automóvil,Femenino,1,2,3,Madrugada
+96,2025-02-17,06:00,Matagalpa,Exceso de velocidad,Automóvil,Masculino,1,0,1,Mañana
+97,2025-02-18,08:00,Managua,Estado de ebriedad,Motocicleta,Femenino,1,0,1,Mañana
+98,2025-02-18,23:00,León,No guardar distancia,Motocicleta,Masculino,0,0,0,Noche
+99,2025-02-19,00:00,Chinandega,No guardar distancia,Automóvil,Femenino,1,0,1,Madrugada
+100,2025-02-19,11:00,Matagalpa,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Mañana
+101,2025-02-20,07:00,Estelí,Desperfectos mecánicos,Motocicleta,Femenino,0,0,0,Mañana
+102,2025-02-20,23:00,Estelí,Estado de ebriedad,Camión,Masculino,2,1,3,Noche
+103,2025-02-21,10:00,Chinandega,Invasión de carril,Automóvil,Masculino,0,0,0,Mañana
+104,2025-02-21,18:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Noche
+105,2025-02-22,16:00,Managua,Desperfectos mecánicos,Bus,Masculino,2,0,2,Tarde
+106,2025-02-22,07:00,Managua,No guardar distancia,Camión,Masculino,3,0,3,Mañana
+107,2025-02-23,02:00,Estelí,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+108,2025-02-23,02:00,Estelí,Exceso de velocidad,Automóvil,Masculino,0,0,0,Madrugada
+109,2025-02-24,00:00,Matagalpa,Estado de ebriedad,Automóvil,Masculino,0,0,0,Madrugada
+110,2025-02-24,04:00,Matagalpa,Exceso de velocidad,Motocicleta,Femenino,0,0,0,Madrugada
+111,2025-02-25,09:00,León,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Mañana
+112,2025-02-25,06:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,2,2,4,Mañana
+113,2025-02-26,08:00,Matagalpa,Estado de ebriedad,Automóvil,Masculino,1,0,1,Mañana
+114,2025-02-26,06:00,Estelí,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Mañana
+115,2025-02-27,08:00,Managua,No guardar distancia,Camión,Femenino,0,0,0,Mañana
+116,2025-02-27,07:00,Chinandega,No guardar distancia,Automóvil,Masculino,1,0,1,Mañana
+117,2025-02-28,11:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Mañana
+118,2025-02-28,01:00,Matagalpa,Desperfectos mecánicos,Automóvil,Femenino,0,0,0,Madrugada
+119,2025-03-01,00:00,León,Invasión de carril,Motocicleta,Femenino,2,0,2,Madrugada
+120,2025-03-01,15:00,Managua,No guardar distancia,Automóvil,Masculino,2,0,2,Tarde
+121,2025-03-02,22:00,Masaya,Exceso de velocidad,Automóvil,Femenino,0,0,0,Noche
+122,2025-03-02,22:00,León,Estado de ebriedad,Motocicleta,Femenino,2,2,4,Noche
+123,2025-03-03,23:00,Chinandega,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Noche
+124,2025-03-03,04:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+125,2025-03-04,02:00,Masaya,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Madrugada
+126,2025-03-04,11:00,León,Invasión de carril,Motocicleta,Masculino,0,0,0,Mañana
+127,2025-03-05,07:00,Masaya,No guardar distancia,Motocicleta,Masculino,1,0,1,Mañana
+128,2025-03-05,21:00,León,Desperfectos mecánicos,Bus,Masculino,0,0,0,Noche
+129,2025-03-06,02:00,Estelí,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+130,2025-03-06,00:00,León,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Madrugada
+131,2025-03-07,02:00,León,Exceso de velocidad,Automóvil,Masculino,0,0,0,Madrugada
+132,2025-03-07,04:00,Estelí,Invasión de carril,Motocicleta,Masculino,1,0,1,Madrugada
+133,2025-03-08,14:00,Chinandega,Exceso de velocidad,Bus,Masculino,0,0,0,Tarde
+134,2025-03-08,13:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,2,0,2,Tarde
+135,2025-03-09,02:00,Managua,Desperfectos mecánicos,Camión,Masculino,1,0,1,Madrugada
+136,2025-03-09,00:00,Masaya,No guardar distancia,Motocicleta,Femenino,1,0,1,Madrugada
+137,2025-03-10,04:00,León,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Madrugada
+138,2025-03-10,22:00,Masaya,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Noche
+139,2025-03-11,13:00,Managua,Exceso de velocidad,Camión,Masculino,1,0,1,Tarde
+140,2025-03-11,06:00,Managua,Invasión de carril,Motocicleta,Masculino,3,0,3,Mañana
+141,2025-03-12,08:00,Managua,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Mañana
+142,2025-03-12,14:00,Chinandega,No guardar distancia,Bus,Femenino,2,0,2,Tarde
+143,2025-03-13,14:00,León,Exceso de velocidad,Automóvil,Femenino,1,0,1,Tarde
+144,2025-03-13,09:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Mañana
+145,2025-03-14,12:00,Chinandega,No guardar distancia,Motocicleta,Masculino,3,0,3,Tarde
+146,2025-03-14,18:00,Matagalpa,Invasión de carril,Bus,Femenino,3,0,3,Noche
+147,2025-03-15,06:00,Managua,No guardar distancia,Motocicleta,Masculino,0,0,0,Mañana
+148,2025-03-15,16:00,León,Invasión de carril,Automóvil,Masculino,2,0,2,Tarde
+149,2025-03-16,19:00,Masaya,No guardar distancia,Camión,Femenino,0,1,1,Noche
+150,2025-03-16,03:00,Chinandega,No guardar distancia,Motocicleta,Masculino,4,0,4,Madrugada
+151,2025-03-17,04:00,León,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Madrugada
+152,2025-03-17,22:00,Estelí,Exceso de velocidad,Motocicleta,Masculino,0,1,1,Noche
+153,2025-03-18,06:00,Matagalpa,No guardar distancia,Motocicleta,Femenino,0,1,1,Mañana
+154,2025-03-18,12:00,Managua,No guardar distancia,Camión,Masculino,1,0,1,Tarde
+155,2025-03-19,14:00,Matagalpa,Estado de ebriedad,Camión,Masculino,2,0,2,Tarde
+156,2025-03-19,10:00,Chinandega,Exceso de velocidad,Automóvil,Masculino,2,0,2,Mañana
+157,2025-03-20,03:00,Managua,Estado de ebriedad,Automóvil,Masculino,0,0,0,Madrugada
+158,2025-03-20,12:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Tarde
+159,2025-03-21,06:00,Matagalpa,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Mañana
+160,2025-03-21,18:00,Chinandega,No guardar distancia,Motocicleta,Masculino,1,0,1,Noche
+161,2025-03-22,21:00,Managua,No guardar distancia,Motocicleta,Masculino,0,1,1,Noche
+162,2025-03-22,01:00,León,Desperfectos mecánicos,Motocicleta,Femenino,2,0,2,Madrugada
+163,2025-03-23,09:00,Managua,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Mañana
+164,2025-03-23,12:00,Managua,Invasión de carril,Motocicleta,Femenino,3,0,3,Tarde
+165,2025-03-24,20:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Noche
+166,2025-03-24,05:00,Managua,Estado de ebriedad,Automóvil,Masculino,2,0,2,Madrugada
+167,2025-03-25,11:00,Managua,Estado de ebriedad,Camión,Masculino,2,0,2,Mañana
+168,2025-03-25,11:00,Managua,Desperfectos mecánicos,Motocicleta,Femenino,2,0,2,Mañana
+169,2025-03-26,19:00,León,No guardar distancia,Bus,Masculino,0,0,0,Noche
+170,2025-03-26,10:00,Managua,Estado de ebriedad,Camión,Masculino,1,0,1,Mañana
+171,2025-03-27,22:00,Managua,No guardar distancia,Motocicleta,Masculino,1,2,3,Noche
+172,2025-03-27,06:00,Estelí,Desperfectos mecánicos,Camión,Masculino,1,0,1,Mañana
+173,2025-03-28,00:00,Chinandega,No guardar distancia,Automóvil,Masculino,2,0,2,Madrugada
+174,2025-03-28,00:00,Masaya,Exceso de velocidad,Automóvil,Femenino,1,0,1,Madrugada
+175,2025-03-29,19:00,Managua,Invasión de carril,Motocicleta,Masculino,1,0,1,Noche
+176,2025-03-29,12:00,Managua,Estado de ebriedad,Automóvil,Femenino,1,0,1,Tarde
+177,2025-03-30,08:00,Managua,Invasión de carril,Motocicleta,Masculino,1,0,1,Mañana
+178,2025-03-30,02:00,Managua,No guardar distancia,Automóvil,Masculino,1,0,1,Madrugada
+179,2025-03-31,06:00,Managua,Estado de ebriedad,Automóvil,Masculino,1,0,1,Mañana
+180,2025-03-31,05:00,Managua,No guardar distancia,Automóvil,Masculino,1,0,1,Madrugada
+181,2025-04-01,07:00,Managua,Exceso de velocidad,Automóvil,Femenino,1,0,1,Mañana
+182,2025-04-01,08:00,Managua,Desperfectos mecánicos,Automóvil,Femenino,2,0,2,Mañana
+183,2025-04-02,04:00,Chinandega,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+184,2025-04-02,00:00,Managua,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Madrugada
+185,2025-04-03,18:00,Chinandega,Exceso de velocidad,Camión,Masculino,0,0,0,Noche
+186,2025-04-03,09:00,León,Estado de ebriedad,Motocicleta,Femenino,0,0,0,Mañana
+187,2025-04-04,11:00,Masaya,No guardar distancia,Motocicleta,Masculino,1,0,1,Mañana
+188,2025-04-04,23:00,Managua,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Noche
+189,2025-04-05,14:00,Masaya,Invasión de carril,Motocicleta,Femenino,1,0,1,Tarde
+190,2025-04-05,21:00,León,Exceso de velocidad,Bus,Masculino,2,0,2,Noche
+191,2025-04-06,23:00,Managua,No guardar distancia,Automóvil,Masculino,0,0,0,Noche
+192,2025-04-06,08:00,Estelí,No guardar distancia,Bus,Masculino,1,0,1,Mañana
+193,2025-04-07,19:00,Matagalpa,Invasión de carril,Automóvil,Femenino,3,0,3,Noche
+194,2025-04-07,16:00,Managua,Exceso de velocidad,Automóvil,Masculino,2,0,2,Tarde
+195,2025-04-08,16:00,Managua,No guardar distancia,Motocicleta,Masculino,0,0,0,Tarde
+196,2025-04-08,19:00,Estelí,Estado de ebriedad,Automóvil,Masculino,1,0,1,Noche
+197,2025-04-09,11:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,1,1,2,Mañana
+198,2025-04-09,06:00,Managua,Desperfectos mecánicos,Camión,Masculino,1,0,1,Mañana
+199,2025-04-10,01:00,Managua,Desperfectos mecánicos,Camión,Masculino,3,1,4,Madrugada
+200,2025-04-10,02:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,2,2,4,Madrugada
+201,2025-04-11,16:00,Chinandega,Invasión de carril,Bus,Masculino,1,0,1,Tarde
+202,2025-04-11,04:00,León,No guardar distancia,Camión,Masculino,1,0,1,Madrugada
+203,2025-04-12,16:00,Chinandega,Estado de ebriedad,Automóvil,Masculino,2,2,4,Tarde
+204,2025-04-12,23:00,Chinandega,Estado de ebriedad,Motocicleta,Femenino,1,0,1,Noche
+205,2025-04-13,16:00,Masaya,Exceso de velocidad,Automóvil,Masculino,0,0,0,Tarde
+206,2025-04-13,16:00,Managua,Desperfectos mecánicos,Automóvil,Femenino,0,0,0,Tarde
+207,2025-04-14,01:00,Managua,Exceso de velocidad,Motocicleta,Femenino,0,0,0,Madrugada
+208,2025-04-14,01:00,Masaya,Invasión de carril,Motocicleta,Masculino,1,0,1,Madrugada
+209,2025-04-15,21:00,Estelí,Invasión de carril,Camión,Masculino,1,0,1,Noche
+210,2025-04-15,22:00,León,No guardar distancia,Motocicleta,Masculino,1,0,1,Noche
+211,2025-04-16,04:00,León,No guardar distancia,Automóvil,Masculino,1,0,1,Madrugada
+212,2025-04-16,00:00,Managua,Invasión de carril,Bus,Masculino,1,1,2,Madrugada
+213,2025-04-17,00:00,Chinandega,Invasión de carril,Camión,Masculino,1,0,1,Madrugada
+214,2025-04-17,18:00,León,Invasión de carril,Motocicleta,Masculino,1,0,1,Noche
+215,2025-04-18,01:00,Managua,Exceso de velocidad,Camión,Femenino,1,0,1,Madrugada
+216,2025-04-18,20:00,Managua,Invasión de carril,Motocicleta,Masculino,1,0,1,Noche
+217,2025-04-19,11:00,Chinandega,Estado de ebriedad,Motocicleta,Femenino,1,0,1,Mañana
+218,2025-04-19,05:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,0,1,1,Madrugada
+219,2025-04-20,22:00,Managua,Invasión de carril,Motocicleta,Femenino,1,0,1,Noche
+220,2025-04-20,03:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,3,0,3,Madrugada
+221,2025-04-21,22:00,Managua,Exceso de velocidad,Automóvil,Masculino,1,0,1,Noche
+222,2025-04-21,10:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,3,0,3,Mañana
+223,2025-04-22,23:00,Estelí,Exceso de velocidad,Motocicleta,Masculino,1,1,2,Noche
+224,2025-04-22,16:00,León,Estado de ebriedad,Automóvil,Masculino,1,0,1,Tarde
+225,2025-04-23,05:00,Masaya,Exceso de velocidad,Camión,Femenino,2,0,2,Madrugada
+226,2025-04-23,23:00,Masaya,Exceso de velocidad,Automóvil,Masculino,0,0,0,Noche
+227,2025-04-24,04:00,Chinandega,No guardar distancia,Motocicleta,Masculino,1,1,2,Madrugada
+228,2025-04-24,19:00,Managua,Invasión de carril,Motocicleta,Masculino,1,0,1,Noche
+229,2025-04-25,01:00,León,Invasión de carril,Motocicleta,Femenino,0,0,0,Madrugada
+230,2025-04-25,05:00,León,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+231,2025-04-26,21:00,Masaya,Estado de ebriedad,Camión,Masculino,1,1,2,Noche
+232,2025-04-26,10:00,Chinandega,Invasión de carril,Motocicleta,Masculino,2,0,2,Mañana
+233,2025-04-27,15:00,Managua,No guardar distancia,Motocicleta,Masculino,3,0,3,Tarde
+234,2025-04-27,15:00,Managua,Invasión de carril,Automóvil,Masculino,2,0,2,Tarde
+235,2025-04-28,00:00,Chinandega,No guardar distancia,Automóvil,Femenino,1,0,1,Madrugada
+236,2025-04-28,08:00,León,Estado de ebriedad,Automóvil,Masculino,2,0,2,Mañana
+237,2025-04-29,05:00,León,Desperfectos mecánicos,Motocicleta,Femenino,0,0,0,Madrugada
+238,2025-04-29,15:00,Chinandega,Estado de ebriedad,Motocicleta,Masculino,1,1,2,Tarde
+239,2025-04-30,02:00,Matagalpa,Estado de ebriedad,Motocicleta,Masculino,2,0,2,Madrugada
+240,2025-04-30,19:00,León,Exceso de velocidad,Motocicleta,Femenino,3,1,4,Noche
+241,2025-05-01,03:00,Managua,Exceso de velocidad,Automóvil,Masculino,0,0,0,Madrugada
+242,2025-05-01,18:00,Managua,Exceso de velocidad,Camión,Femenino,0,0,0,Noche
+243,2025-05-02,02:00,Managua,Exceso de velocidad,Automóvil,Masculino,0,0,0,Madrugada
+244,2025-05-02,18:00,Managua,No guardar distancia,Camión,Masculino,1,0,1,Noche
+245,2025-05-03,19:00,Managua,Invasión de carril,Motocicleta,Femenino,1,2,3,Noche
+246,2025-05-03,06:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,2,0,2,Mañana
+247,2025-05-04,19:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Noche
+248,2025-05-04,08:00,Managua,No guardar distancia,Automóvil,Masculino,1,0,1,Mañana
+249,2025-05-05,00:00,Estelí,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Madrugada
+250,2025-05-05,07:00,Managua,No guardar distancia,Motocicleta,Femenino,0,0,0,Mañana
+251,2025-05-06,06:00,León,No guardar distancia,Motocicleta,Masculino,1,0,1,Mañana
+252,2025-05-06,17:00,Chinandega,Estado de ebriedad,Bus,Masculino,1,2,3,Tarde
+253,2025-05-07,07:00,Matagalpa,Invasión de carril,Motocicleta,Masculino,1,0,1,Mañana
+254,2025-05-07,00:00,Managua,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Madrugada
+255,2025-05-08,10:00,Chinandega,Invasión de carril,Motocicleta,Masculino,1,0,1,Mañana
+256,2025-05-08,17:00,Matagalpa,Estado de ebriedad,Camión,Masculino,1,1,2,Tarde
+257,2025-05-09,22:00,Estelí,Estado de ebriedad,Automóvil,Femenino,1,0,1,Noche
+258,2025-05-09,09:00,Estelí,Estado de ebriedad,Automóvil,Masculino,1,0,1,Mañana
+259,2025-05-10,02:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,2,0,2,Madrugada
+260,2025-05-10,06:00,Managua,Invasión de carril,Automóvil,Masculino,0,0,0,Mañana
+261,2025-05-11,15:00,Masaya,Invasión de carril,Motocicleta,Masculino,0,0,0,Tarde
+262,2025-05-11,15:00,Matagalpa,No guardar distancia,Camión,Masculino,0,1,1,Tarde
+263,2025-05-12,19:00,León,No guardar distancia,Automóvil,Masculino,0,0,0,Noche
+264,2025-05-12,16:00,León,No guardar distancia,Motocicleta,Masculino,0,0,0,Tarde
+265,2025-05-13,01:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+266,2025-05-13,00:00,Masaya,Invasión de carril,Motocicleta,Masculino,3,0,3,Madrugada
+267,2025-05-14,15:00,Managua,Estado de ebriedad,Motocicleta,Femenino,3,0,3,Tarde
+268,2025-05-14,11:00,Managua,Desperfectos mecánicos,Motocicleta,Femenino,1,0,1,Mañana
+269,2025-05-15,04:00,Chinandega,No guardar distancia,Automóvil,Femenino,0,0,0,Madrugada
+270,2025-05-15,04:00,León,Estado de ebriedad,Automóvil,Masculino,1,0,1,Madrugada
+271,2025-05-16,22:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Noche
+272,2025-05-16,08:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,2,0,2,Mañana
+273,2025-05-17,08:00,León,Exceso de velocidad,Motocicleta,Masculino,3,2,5,Mañana
+274,2025-05-17,02:00,Managua,Invasión de carril,Camión,Masculino,0,0,0,Madrugada
+275,2025-05-18,18:00,León,Exceso de velocidad,Motocicleta,Femenino,4,0,4,Noche
+276,2025-05-18,15:00,Managua,No guardar distancia,Automóvil,Femenino,2,0,2,Tarde
+277,2025-05-19,15:00,Chinandega,Estado de ebriedad,Camión,Masculino,1,0,1,Tarde
+278,2025-05-19,02:00,León,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Madrugada
+279,2025-05-20,19:00,Managua,Desperfectos mecánicos,Camión,Femenino,3,0,3,Noche
+280,2025-05-20,23:00,Managua,Invasión de carril,Motocicleta,Masculino,1,0,1,Noche
+281,2025-05-21,21:00,Managua,Exceso de velocidad,Bus,Masculino,1,0,1,Noche
+282,2025-05-21,23:00,Managua,Invasión de carril,Motocicleta,Femenino,0,0,0,Noche
+283,2025-05-22,00:00,Matagalpa,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Madrugada
+284,2025-05-22,23:00,Managua,Invasión de carril,Automóvil,Masculino,1,0,1,Noche
+285,2025-05-23,19:00,Estelí,Desperfectos mecánicos,Bus,Masculino,1,0,1,Noche
+286,2025-05-23,10:00,Managua,Desperfectos mecánicos,Camión,Femenino,1,0,1,Mañana
+287,2025-05-24,16:00,Masaya,No guardar distancia,Motocicleta,Masculino,1,0,1,Tarde
+288,2025-05-24,07:00,Masaya,No guardar distancia,Motocicleta,Masculino,0,0,0,Mañana
+289,2025-05-25,03:00,León,Estado de ebriedad,Bus,Masculino,0,0,0,Madrugada
+290,2025-05-25,05:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Madrugada
+291,2025-05-26,07:00,Chinandega,Invasión de carril,Camión,Masculino,0,2,2,Mañana
+292,2025-05-26,19:00,Managua,Estado de ebriedad,Camión,Femenino,1,0,1,Noche
+293,2025-05-27,02:00,Matagalpa,No guardar distancia,Automóvil,Masculino,2,0,2,Madrugada
+294,2025-05-27,15:00,Estelí,Invasión de carril,Motocicleta,Femenino,2,0,2,Tarde
+295,2025-05-28,02:00,Matagalpa,No guardar distancia,Automóvil,Masculino,1,0,1,Madrugada
+296,2025-05-28,17:00,Managua,Invasión de carril,Motocicleta,Masculino,1,1,2,Tarde
+297,2025-05-29,13:00,Masaya,Exceso de velocidad,Camión,Masculino,1,0,1,Tarde
+298,2025-05-29,17:00,Matagalpa,Estado de ebriedad,Automóvil,Masculino,2,0,2,Tarde
+299,2025-05-30,01:00,Managua,Invasión de carril,Camión,Masculino,1,0,1,Madrugada
+300,2025-05-30,21:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Noche
+301,2025-05-31,02:00,Masaya,Desperfectos mecánicos,Bus,Masculino,0,0,0,Madrugada
+302,2025-05-31,15:00,León,Invasión de carril,Motocicleta,Masculino,1,0,1,Tarde
+303,2025-06-01,08:00,Estelí,Invasión de carril,Motocicleta,Masculino,2,2,4,Mañana
+304,2025-06-01,03:00,Managua,Invasión de carril,Motocicleta,Femenino,1,0,1,Madrugada
+305,2025-06-02,00:00,Masaya,Desperfectos mecánicos,Automóvil,Femenino,0,0,0,Madrugada
+306,2025-06-02,03:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,0,1,1,Madrugada
+307,2025-06-03,00:00,Managua,Invasión de carril,Camión,Masculino,1,0,1,Madrugada
+308,2025-06-03,13:00,Managua,No guardar distancia,Motocicleta,Masculino,1,1,2,Tarde
+309,2025-06-04,20:00,Estelí,No guardar distancia,Motocicleta,Masculino,0,2,2,Noche
+310,2025-06-04,15:00,Masaya,Exceso de velocidad,Automóvil,Masculino,2,0,2,Tarde
+311,2025-06-05,19:00,León,Estado de ebriedad,Motocicleta,Femenino,0,0,0,Noche
+312,2025-06-05,23:00,Chinandega,No guardar distancia,Automóvil,Masculino,1,0,1,Noche
+313,2025-06-06,07:00,Estelí,Desperfectos mecánicos,Bus,Masculino,1,1,2,Mañana
+314,2025-06-06,06:00,Chinandega,No guardar distancia,Bus,Femenino,1,0,1,Mañana
+315,2025-06-07,02:00,Estelí,Exceso de velocidad,Bus,Masculino,0,0,0,Madrugada
+316,2025-06-07,16:00,Chinandega,Exceso de velocidad,Camión,Femenino,1,1,2,Tarde
+317,2025-06-08,00:00,Chinandega,Estado de ebriedad,Motocicleta,Masculino,2,2,4,Madrugada
+318,2025-06-08,15:00,Chinandega,No guardar distancia,Motocicleta,Masculino,1,0,1,Tarde
+319,2025-06-09,11:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,1,0,1,Mañana
+320,2025-06-09,18:00,Masaya,Desperfectos mecánicos,Camión,Masculino,1,1,2,Noche
+321,2025-06-10,21:00,León,Invasión de carril,Motocicleta,Femenino,0,0,0,Noche
+322,2025-06-10,22:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,3,1,4,Noche
+323,2025-06-11,21:00,Estelí,Estado de ebriedad,Motocicleta,Femenino,2,0,2,Noche
+324,2025-06-11,13:00,Chinandega,Estado de ebriedad,Automóvil,Masculino,0,0,0,Tarde
+325,2025-06-12,05:00,León,Desperfectos mecánicos,Camión,Masculino,1,0,1,Madrugada
+326,2025-06-12,05:00,Matagalpa,Desperfectos mecánicos,Camión,Masculino,2,0,2,Madrugada
+327,2025-06-13,12:00,León,Invasión de carril,Motocicleta,Masculino,1,0,1,Tarde
+328,2025-06-13,18:00,Managua,Desperfectos mecánicos,Bus,Femenino,1,0,1,Noche
+329,2025-06-14,21:00,Matagalpa,Invasión de carril,Automóvil,Masculino,2,0,2,Noche
+330,2025-06-14,07:00,León,Invasión de carril,Motocicleta,Masculino,0,0,0,Mañana
+331,2025-06-15,01:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,2,0,2,Madrugada
+332,2025-06-15,20:00,Managua,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Noche
+333,2025-06-16,00:00,Masaya,Exceso de velocidad,Motocicleta,Masculino,4,0,4,Madrugada
+334,2025-06-16,14:00,León,Invasión de carril,Bus,Masculino,0,0,0,Tarde
+335,2025-06-17,00:00,León,Desperfectos mecánicos,Automóvil,Femenino,1,0,1,Madrugada
+336,2025-06-17,04:00,Estelí,Exceso de velocidad,Camión,Masculino,2,0,2,Madrugada
+337,2025-06-18,15:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,3,0,3,Tarde
+338,2025-06-18,18:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Noche
+339,2025-06-19,03:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,2,1,3,Madrugada
+340,2025-06-19,02:00,Managua,No guardar distancia,Motocicleta,Femenino,1,1,2,Madrugada
+341,2025-06-20,16:00,Masaya,Desperfectos mecánicos,Automóvil,Masculino,4,0,4,Tarde
+342,2025-06-20,16:00,Managua,No guardar distancia,Bus,Masculino,4,2,6,Tarde
+343,2025-06-21,11:00,León,Invasión de carril,Automóvil,Masculino,1,0,1,Mañana
+344,2025-06-21,13:00,Masaya,Exceso de velocidad,Automóvil,Masculino,0,0,0,Tarde
+345,2025-06-22,20:00,Estelí,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Noche
+346,2025-06-22,05:00,Managua,Exceso de velocidad,Motocicleta,Femenino,3,0,3,Madrugada
+347,2025-06-23,02:00,Estelí,Exceso de velocidad,Motocicleta,Femenino,0,0,0,Madrugada
+348,2025-06-23,08:00,Managua,Exceso de velocidad,Automóvil,Femenino,0,0,0,Mañana
+349,2025-06-24,04:00,Estelí,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Madrugada
+350,2025-06-24,23:00,Managua,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Noche
+351,2025-06-25,16:00,Chinandega,Invasión de carril,Automóvil,Masculino,0,0,0,Tarde
+352,2025-06-25,13:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,2,0,2,Tarde
+353,2025-06-26,20:00,Managua,Estado de ebriedad,Motocicleta,Femenino,0,0,0,Noche
+354,2025-06-26,02:00,Managua,No guardar distancia,Motocicleta,Masculino,1,0,1,Madrugada
+355,2025-06-27,00:00,Masaya,Estado de ebriedad,Bus,Femenino,2,0,2,Madrugada
+356,2025-06-27,19:00,Masaya,Estado de ebriedad,Automóvil,Masculino,1,0,1,Noche
+357,2025-06-28,20:00,León,Desperfectos mecánicos,Automóvil,Masculino,2,1,3,Noche
+358,2025-06-28,22:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Noche
+359,2025-06-29,00:00,León,Desperfectos mecánicos,Bus,Masculino,1,0,1,Madrugada
+360,2025-06-29,02:00,Managua,Exceso de velocidad,Automóvil,Masculino,1,0,1,Madrugada
+361,2025-06-30,17:00,Managua,Invasión de carril,Motocicleta,Femenino,1,0,1,Tarde
+362,2025-06-30,09:00,Managua,Exceso de velocidad,Camión,Masculino,1,0,1,Mañana
+363,2025-07-01,21:00,Matagalpa,Invasión de carril,Motocicleta,Masculino,1,0,1,Noche
+364,2025-07-01,02:00,León,Invasión de carril,Automóvil,Masculino,3,0,3,Madrugada
+365,2025-07-02,07:00,Chinandega,Estado de ebriedad,Automóvil,Femenino,2,0,2,Mañana
+366,2025-07-02,13:00,Chinandega,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Tarde
+367,2025-07-03,23:00,Matagalpa,Invasión de carril,Bus,Femenino,2,0,2,Noche
+368,2025-07-03,17:00,Managua,Invasión de carril,Automóvil,Masculino,2,0,2,Tarde
+369,2025-07-04,14:00,León,Exceso de velocidad,Automóvil,Femenino,2,0,2,Tarde
+370,2025-07-04,21:00,León,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Noche
+371,2025-07-05,22:00,León,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Noche
+372,2025-07-05,01:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Madrugada
+373,2025-07-06,09:00,Estelí,Invasión de carril,Camión,Femenino,1,0,1,Mañana
+374,2025-07-06,01:00,Matagalpa,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Madrugada
+375,2025-07-07,16:00,León,Estado de ebriedad,Automóvil,Masculino,0,0,0,Tarde
+376,2025-07-07,07:00,Masaya,Exceso de velocidad,Automóvil,Masculino,1,1,2,Mañana
+377,2025-07-08,00:00,Matagalpa,Invasión de carril,Motocicleta,Femenino,4,0,4,Madrugada
+378,2025-07-08,08:00,Masaya,Invasión de carril,Automóvil,Masculino,2,1,3,Mañana
+379,2025-07-09,10:00,Managua,No guardar distancia,Motocicleta,Femenino,0,0,0,Mañana
+380,2025-07-09,21:00,León,Desperfectos mecánicos,Bus,Masculino,1,0,1,Noche
+381,2025-07-10,15:00,León,No guardar distancia,Automóvil,Masculino,2,0,2,Tarde
+382,2025-07-10,06:00,Chinandega,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Mañana
+383,2025-07-11,09:00,Masaya,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Mañana
+384,2025-07-11,22:00,Matagalpa,Estado de ebriedad,Motocicleta,Masculino,2,0,2,Noche
+385,2025-07-12,02:00,Matagalpa,Invasión de carril,Camión,Masculino,2,0,2,Madrugada
+386,2025-07-12,17:00,Chinandega,No guardar distancia,Automóvil,Masculino,2,0,2,Tarde
+387,2025-07-13,23:00,Managua,No guardar distancia,Automóvil,Masculino,0,0,0,Noche
+388,2025-07-13,12:00,Matagalpa,No guardar distancia,Motocicleta,Masculino,0,1,1,Tarde
+389,2025-07-14,06:00,Estelí,Estado de ebriedad,Motocicleta,Masculino,2,0,2,Mañana
+390,2025-07-14,03:00,Managua,Invasión de carril,Motocicleta,Masculino,2,0,2,Madrugada
+391,2025-07-15,12:00,Matagalpa,Exceso de velocidad,Automóvil,Masculino,0,0,0,Tarde
+392,2025-07-15,19:00,Estelí,Exceso de velocidad,Camión,Femenino,1,0,1,Noche
+393,2025-07-16,00:00,León,Estado de ebriedad,Motocicleta,Femenino,2,0,2,Madrugada
+394,2025-07-16,07:00,León,No guardar distancia,Motocicleta,Masculino,2,2,4,Mañana
+395,2025-07-17,13:00,Chinandega,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Tarde
+396,2025-07-17,15:00,Managua,Estado de ebriedad,Camión,Femenino,1,0,1,Tarde
+397,2025-07-18,13:00,Managua,Estado de ebriedad,Automóvil,Masculino,1,0,1,Tarde
+398,2025-07-18,11:00,Estelí,Invasión de carril,Camión,Masculino,1,0,1,Mañana
+399,2025-07-19,18:00,Managua,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Noche
+400,2025-07-19,22:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Noche
+401,2025-07-20,14:00,Chinandega,Estado de ebriedad,Camión,Masculino,0,2,2,Tarde
+402,2025-07-20,01:00,León,No guardar distancia,Automóvil,Masculino,0,0,0,Madrugada
+403,2025-07-21,01:00,Matagalpa,No guardar distancia,Motocicleta,Masculino,0,1,1,Madrugada
+404,2025-07-21,22:00,Managua,Desperfectos mecánicos,Automóvil,Femenino,1,0,1,Noche
+405,2025-07-22,21:00,Managua,Invasión de carril,Camión,Masculino,0,0,0,Noche
+406,2025-07-22,18:00,Masaya,Desperfectos mecánicos,Automóvil,Masculino,1,0,1,Noche
+407,2025-07-23,21:00,Chinandega,No guardar distancia,Automóvil,Femenino,0,0,0,Noche
+408,2025-07-23,21:00,Managua,Exceso de velocidad,Motocicleta,Masculino,0,1,1,Noche
+409,2025-07-24,16:00,Chinandega,No guardar distancia,Automóvil,Masculino,1,0,1,Tarde
+410,2025-07-24,19:00,Managua,Invasión de carril,Automóvil,Masculino,2,0,2,Noche
+411,2025-07-25,09:00,Managua,No guardar distancia,Camión,Masculino,1,0,1,Mañana
+412,2025-07-25,05:00,Chinandega,Invasión de carril,Camión,Femenino,0,0,0,Madrugada
+413,2025-07-26,14:00,Chinandega,Invasión de carril,Camión,Masculino,2,0,2,Tarde
+414,2025-07-26,21:00,Matagalpa,Invasión de carril,Motocicleta,Femenino,0,0,0,Noche
+415,2025-07-27,10:00,Chinandega,Invasión de carril,Automóvil,Masculino,2,0,2,Mañana
+416,2025-07-27,04:00,León,Invasión de carril,Camión,Masculino,0,0,0,Madrugada
+417,2025-07-28,00:00,León,Exceso de velocidad,Automóvil,Masculino,0,0,0,Madrugada
+418,2025-07-28,07:00,Managua,Desperfectos mecánicos,Camión,Masculino,0,0,0,Mañana
+419,2025-07-29,20:00,Masaya,Estado de ebriedad,Camión,Masculino,3,0,3,Noche
+420,2025-07-29,11:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,1,1,2,Mañana
+421,2025-07-30,11:00,Matagalpa,Invasión de carril,Automóvil,Masculino,0,0,0,Mañana
+422,2025-07-30,04:00,Managua,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Madrugada
+423,2025-07-31,06:00,Chinandega,No guardar distancia,Motocicleta,Femenino,0,0,0,Mañana
+424,2025-07-31,03:00,Managua,Exceso de velocidad,Automóvil,Masculino,2,0,2,Madrugada
+425,2025-08-01,05:00,Matagalpa,Invasión de carril,Camión,Masculino,0,0,0,Madrugada
+426,2025-08-01,12:00,León,Exceso de velocidad,Motocicleta,Femenino,0,0,0,Tarde
+427,2025-08-02,19:00,León,Exceso de velocidad,Motocicleta,Femenino,0,0,0,Noche
+428,2025-08-02,14:00,Managua,Invasión de carril,Automóvil,Masculino,3,0,3,Tarde
+429,2025-08-03,02:00,Masaya,Exceso de velocidad,Motocicleta,Femenino,1,1,2,Madrugada
+430,2025-08-03,22:00,Managua,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Noche
+431,2025-08-04,07:00,Estelí,Estado de ebriedad,Motocicleta,Masculino,2,0,2,Mañana
+432,2025-08-04,19:00,Managua,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Noche
+433,2025-08-05,15:00,Managua,No guardar distancia,Motocicleta,Femenino,1,0,1,Tarde
+434,2025-08-05,12:00,Managua,Invasión de carril,Motocicleta,Masculino,3,1,4,Tarde
+435,2025-08-06,17:00,Chinandega,Estado de ebriedad,Motocicleta,Masculino,2,0,2,Tarde
+436,2025-08-06,09:00,León,No guardar distancia,Camión,Masculino,1,0,1,Mañana
+437,2025-08-07,18:00,Managua,Exceso de velocidad,Automóvil,Femenino,3,0,3,Noche
+438,2025-08-07,16:00,Masaya,No guardar distancia,Automóvil,Femenino,0,0,0,Tarde
+439,2025-08-08,23:00,Chinandega,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Noche
+440,2025-08-08,18:00,León,Estado de ebriedad,Motocicleta,Femenino,2,0,2,Noche
+441,2025-08-09,22:00,Chinandega,Exceso de velocidad,Automóvil,Masculino,2,0,2,Noche
+442,2025-08-09,04:00,Chinandega,Invasión de carril,Motocicleta,Masculino,1,0,1,Madrugada
+443,2025-08-10,20:00,León,Exceso de velocidad,Automóvil,Masculino,1,0,1,Noche
+444,2025-08-10,22:00,Managua,Invasión de carril,Automóvil,Masculino,2,0,2,Noche
+445,2025-08-11,08:00,Managua,Exceso de velocidad,Automóvil,Masculino,2,0,2,Mañana
+446,2025-08-11,11:00,Estelí,No guardar distancia,Motocicleta,Masculino,1,0,1,Mañana
+447,2025-08-12,20:00,Matagalpa,No guardar distancia,Motocicleta,Masculino,0,0,0,Noche
+448,2025-08-12,00:00,Chinandega,No guardar distancia,Automóvil,Femenino,1,0,1,Madrugada
+449,2025-08-13,00:00,Managua,Desperfectos mecánicos,Motocicleta,Femenino,2,0,2,Madrugada
+450,2025-08-13,14:00,León,Invasión de carril,Automóvil,Femenino,1,0,1,Tarde
+451,2025-08-14,01:00,Chinandega,No guardar distancia,Automóvil,Femenino,1,0,1,Madrugada
+452,2025-08-14,21:00,Managua,Desperfectos mecánicos,Bus,Masculino,0,0,0,Noche
+453,2025-08-15,15:00,Managua,Invasión de carril,Motocicleta,Masculino,1,0,1,Tarde
+454,2025-08-15,07:00,Masaya,Exceso de velocidad,Camión,Masculino,0,1,1,Mañana
+455,2025-08-16,12:00,Masaya,Desperfectos mecánicos,Automóvil,Masculino,0,1,1,Tarde
+456,2025-08-16,20:00,Managua,Estado de ebriedad,Motocicleta,Masculino,5,1,6,Noche
+457,2025-08-17,00:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Madrugada
+458,2025-08-17,15:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,2,0,2,Tarde
+459,2025-08-18,06:00,Masaya,Invasión de carril,Motocicleta,Masculino,2,0,2,Mañana
+460,2025-08-18,04:00,Managua,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Madrugada
+461,2025-08-19,21:00,Managua,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Noche
+462,2025-08-19,22:00,Masaya,No guardar distancia,Camión,Masculino,2,0,2,Noche
+463,2025-08-20,02:00,Managua,No guardar distancia,Camión,Masculino,1,0,1,Madrugada
+464,2025-08-20,11:00,Masaya,Desperfectos mecánicos,Automóvil,Masculino,1,2,3,Mañana
+465,2025-08-21,15:00,Managua,Invasión de carril,Motocicleta,Masculino,1,0,1,Tarde
+466,2025-08-21,18:00,Managua,Invasión de carril,Motocicleta,Femenino,1,0,1,Noche
+467,2025-08-22,04:00,Managua,No guardar distancia,Automóvil,Masculino,5,0,5,Madrugada
+468,2025-08-22,21:00,Masaya,Estado de ebriedad,Automóvil,Masculino,0,1,1,Noche
+469,2025-08-23,13:00,Estelí,Exceso de velocidad,Motocicleta,Femenino,1,0,1,Tarde
+470,2025-08-23,04:00,Estelí,Estado de ebriedad,Automóvil,Masculino,1,0,1,Madrugada
+471,2025-08-24,14:00,Chinandega,Exceso de velocidad,Bus,Masculino,3,1,4,Tarde
+472,2025-08-24,16:00,Masaya,No guardar distancia,Automóvil,Masculino,0,0,0,Tarde
+473,2025-08-25,13:00,Managua,Exceso de velocidad,Automóvil,Masculino,2,0,2,Tarde
+474,2025-08-25,19:00,Managua,Invasión de carril,Bus,Masculino,4,0,4,Noche
+475,2025-08-26,04:00,Estelí,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Madrugada
+476,2025-08-26,11:00,Managua,Desperfectos mecánicos,Automóvil,Femenino,1,0,1,Mañana
+477,2025-08-27,15:00,Managua,No guardar distancia,Bus,Masculino,0,0,0,Tarde
+478,2025-08-27,15:00,Managua,Invasión de carril,Motocicleta,Masculino,0,1,1,Tarde
+479,2025-08-28,20:00,Managua,Estado de ebriedad,Automóvil,Masculino,1,2,3,Noche
+480,2025-08-28,06:00,Managua,Invasión de carril,Automóvil,Masculino,0,0,0,Mañana
+481,2025-08-29,03:00,León,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Madrugada
+482,2025-08-29,00:00,Chinandega,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Madrugada
+483,2025-08-30,04:00,Estelí,Invasión de carril,Bus,Femenino,2,0,2,Madrugada
+484,2025-08-30,22:00,Estelí,Invasión de carril,Camión,Masculino,0,0,0,Noche
+485,2025-08-31,09:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Mañana
+486,2025-08-31,21:00,Managua,Estado de ebriedad,Camión,Masculino,2,0,2,Noche
+487,2025-09-01,04:00,Chinandega,No guardar distancia,Motocicleta,Masculino,0,0,0,Madrugada
+488,2025-09-01,03:00,León,No guardar distancia,Motocicleta,Masculino,1,1,2,Madrugada
+489,2025-09-02,01:00,Managua,Invasión de carril,Automóvil,Femenino,1,0,1,Madrugada
+490,2025-09-02,19:00,León,No guardar distancia,Automóvil,Masculino,1,0,1,Noche
+491,2025-09-03,09:00,Chinandega,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Mañana
+492,2025-09-03,18:00,León,Desperfectos mecánicos,Bus,Femenino,0,0,0,Noche
+493,2025-09-04,00:00,Chinandega,Invasión de carril,Automóvil,Masculino,0,0,0,Madrugada
+494,2025-09-04,23:00,Managua,Invasión de carril,Automóvil,Femenino,0,0,0,Noche
+495,2025-09-05,04:00,Matagalpa,Invasión de carril,Motocicleta,Masculino,1,0,1,Madrugada
+496,2025-09-05,12:00,Masaya,Estado de ebriedad,Bus,Masculino,4,0,4,Tarde
+497,2025-09-06,03:00,Managua,No guardar distancia,Bus,Masculino,0,0,0,Madrugada
+498,2025-09-06,15:00,Estelí,Invasión de carril,Camión,Masculino,0,0,0,Tarde
+499,2025-09-07,23:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Noche
+500,2025-09-07,15:00,Estelí,Exceso de velocidad,Motocicleta,Masculino,1,2,3,Tarde
+501,2025-09-08,22:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Noche
+502,2025-09-08,01:00,Chinandega,No guardar distancia,Motocicleta,Masculino,2,1,3,Madrugada
+503,2025-09-09,16:00,Managua,Invasión de carril,Motocicleta,Masculino,0,0,0,Tarde
+504,2025-09-09,19:00,Managua,Exceso de velocidad,Bus,Femenino,0,1,1,Noche
+505,2025-09-10,23:00,León,No guardar distancia,Automóvil,Masculino,2,0,2,Noche
+506,2025-09-10,11:00,León,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Mañana
+507,2025-09-11,17:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Tarde
+508,2025-09-11,02:00,Managua,No guardar distancia,Motocicleta,Femenino,0,0,0,Madrugada
+509,2025-09-12,00:00,Estelí,No guardar distancia,Motocicleta,Femenino,2,0,2,Madrugada
+510,2025-09-12,00:00,Matagalpa,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Madrugada
+511,2025-09-13,18:00,León,No guardar distancia,Motocicleta,Masculino,2,0,2,Noche
+512,2025-09-13,10:00,Managua,Desperfectos mecánicos,Camión,Masculino,1,0,1,Mañana
+513,2025-09-14,04:00,Managua,Desperfectos mecánicos,Bus,Masculino,0,0,0,Madrugada
+514,2025-09-14,11:00,Managua,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Mañana
+515,2025-09-15,02:00,Matagalpa,Invasión de carril,Motocicleta,Femenino,1,0,1,Madrugada
+516,2025-09-15,00:00,Managua,Exceso de velocidad,Camión,Masculino,4,0,4,Madrugada
+517,2025-09-16,00:00,León,Invasión de carril,Motocicleta,Masculino,1,0,1,Madrugada
+518,2025-09-16,07:00,Managua,No guardar distancia,Motocicleta,Femenino,2,0,2,Mañana
+519,2025-09-17,09:00,León,Exceso de velocidad,Camión,Masculino,2,0,2,Mañana
+520,2025-09-17,10:00,Masaya,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Mañana
+521,2025-09-18,11:00,Estelí,Estado de ebriedad,Automóvil,Masculino,0,1,1,Mañana
+522,2025-09-18,12:00,Managua,Exceso de velocidad,Automóvil,Femenino,0,0,0,Tarde
+523,2025-09-19,11:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Mañana
+524,2025-09-19,13:00,Managua,Exceso de velocidad,Motocicleta,Femenino,1,0,1,Tarde
+525,2025-09-20,01:00,Matagalpa,No guardar distancia,Camión,Femenino,2,0,2,Madrugada
+526,2025-09-20,18:00,Estelí,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Noche
+527,2025-09-21,17:00,León,Estado de ebriedad,Motocicleta,Masculino,1,0,1,Tarde
+528,2025-09-21,02:00,León,Exceso de velocidad,Automóvil,Femenino,0,0,0,Madrugada
+529,2025-09-22,22:00,Masaya,Invasión de carril,Automóvil,Masculino,1,0,1,Noche
+530,2025-09-22,16:00,Managua,Invasión de carril,Motocicleta,Femenino,0,0,0,Tarde
+531,2025-09-23,07:00,Matagalpa,No guardar distancia,Camión,Femenino,0,0,0,Mañana
+532,2025-09-23,09:00,Chinandega,Invasión de carril,Motocicleta,Masculino,0,0,0,Mañana
+533,2025-09-24,01:00,Chinandega,Exceso de velocidad,Camión,Masculino,1,0,1,Madrugada
+534,2025-09-24,18:00,León,Exceso de velocidad,Camión,Femenino,3,0,3,Noche
+535,2025-09-25,08:00,Managua,Invasión de carril,Automóvil,Masculino,1,0,1,Mañana
+536,2025-09-25,06:00,Managua,Exceso de velocidad,Automóvil,Masculino,3,1,4,Mañana
+537,2025-09-26,03:00,Masaya,No guardar distancia,Bus,Masculino,0,1,1,Madrugada
+538,2025-09-26,20:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,1,0,1,Noche
+539,2025-09-27,17:00,León,No guardar distancia,Automóvil,Femenino,0,0,0,Tarde
+540,2025-09-27,12:00,Managua,No guardar distancia,Motocicleta,Femenino,1,0,1,Tarde
+541,2025-09-28,10:00,Chinandega,Exceso de velocidad,Motocicleta,Masculino,0,0,0,Mañana
+542,2025-09-28,23:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Noche
+543,2025-09-29,03:00,Chinandega,Exceso de velocidad,Bus,Masculino,0,0,0,Madrugada
+544,2025-09-29,20:00,Masaya,Estado de ebriedad,Bus,Femenino,1,0,1,Noche
+545,2025-09-30,03:00,Managua,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Madrugada
+546,2025-09-30,09:00,León,Exceso de velocidad,Motocicleta,Masculino,3,2,5,Mañana
+547,2025-10-01,04:00,Chinandega,Exceso de velocidad,Automóvil,Masculino,2,0,2,Madrugada
+548,2025-10-01,08:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Mañana
+549,2025-10-02,23:00,Matagalpa,Exceso de velocidad,Motocicleta,Femenino,1,0,1,Noche
+550,2025-10-02,02:00,Masaya,Desperfectos mecánicos,Automóvil,Masculino,1,0,1,Madrugada
+551,2025-10-03,16:00,Managua,Invasión de carril,Automóvil,Masculino,2,0,2,Tarde
+552,2025-10-03,02:00,Managua,Estado de ebriedad,Bus,Masculino,0,0,0,Madrugada
+553,2025-10-04,15:00,Managua,Desperfectos mecánicos,Motocicleta,Femenino,2,0,2,Tarde
+554,2025-10-04,03:00,León,Invasión de carril,Motocicleta,Masculino,0,0,0,Madrugada
+555,2025-10-05,17:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Tarde
+556,2025-10-05,16:00,Chinandega,Desperfectos mecánicos,Camión,Masculino,0,0,0,Tarde
+557,2025-10-06,06:00,León,Estado de ebriedad,Automóvil,Femenino,1,0,1,Mañana
+558,2025-10-06,23:00,Managua,No guardar distancia,Automóvil,Masculino,1,1,2,Noche
+559,2025-10-07,22:00,Masaya,No guardar distancia,Motocicleta,Masculino,1,0,1,Noche
+560,2025-10-07,04:00,Managua,Desperfectos mecánicos,Camión,Masculino,0,0,0,Madrugada
+561,2025-10-08,11:00,Managua,Exceso de velocidad,Motocicleta,Femenino,2,0,2,Mañana
+562,2025-10-08,16:00,Masaya,Invasión de carril,Motocicleta,Masculino,2,0,2,Tarde
+563,2025-10-09,22:00,Chinandega,Exceso de velocidad,Automóvil,Femenino,0,0,0,Noche
+564,2025-10-09,12:00,Masaya,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Tarde
+565,2025-10-10,22:00,Chinandega,Desperfectos mecánicos,Motocicleta,Masculino,2,0,2,Noche
+566,2025-10-10,02:00,Managua,Desperfectos mecánicos,Camión,Masculino,2,0,2,Madrugada
+567,2025-10-11,08:00,Estelí,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Mañana
+568,2025-10-11,16:00,Masaya,Desperfectos mecánicos,Automóvil,Masculino,3,0,3,Tarde
+569,2025-10-12,16:00,Masaya,No guardar distancia,Motocicleta,Femenino,2,0,2,Tarde
+570,2025-10-12,19:00,Managua,Desperfectos mecánicos,Camión,Masculino,0,0,0,Noche
+571,2025-10-13,15:00,León,No guardar distancia,Motocicleta,Masculino,0,0,0,Tarde
+572,2025-10-13,21:00,Chinandega,No guardar distancia,Motocicleta,Femenino,0,0,0,Noche
+573,2025-10-14,12:00,Managua,Desperfectos mecánicos,Bus,Femenino,1,0,1,Tarde
+574,2025-10-14,18:00,Matagalpa,Estado de ebriedad,Camión,Masculino,1,0,1,Noche
+575,2025-10-15,16:00,Managua,Invasión de carril,Automóvil,Masculino,0,0,0,Tarde
+576,2025-10-15,03:00,Matagalpa,Exceso de velocidad,Motocicleta,Femenino,2,0,2,Madrugada
+577,2025-10-16,11:00,Chinandega,No guardar distancia,Camión,Masculino,0,0,0,Mañana
+578,2025-10-16,08:00,Managua,Invasión de carril,Automóvil,Masculino,1,0,1,Mañana
+579,2025-10-17,18:00,León,Estado de ebriedad,Camión,Femenino,0,1,1,Noche
+580,2025-10-17,11:00,Estelí,Exceso de velocidad,Camión,Masculino,1,0,1,Mañana
+581,2025-10-18,08:00,Masaya,Exceso de velocidad,Motocicleta,Masculino,1,0,1,Mañana
+582,2025-10-18,06:00,Estelí,No guardar distancia,Motocicleta,Masculino,0,0,0,Mañana
+583,2025-10-19,13:00,Masaya,Desperfectos mecánicos,Automóvil,Masculino,0,0,0,Tarde
+584,2025-10-19,19:00,Masaya,Estado de ebriedad,Motocicleta,Masculino,0,0,0,Noche
+585,2025-10-20,18:00,Estelí,No guardar distancia,Motocicleta,Masculino,0,1,1,Noche
+586,2025-10-20,14:00,Managua,Estado de ebriedad,Bus,Masculino,0,0,0,Tarde
+587,2025-10-21,15:00,Chinandega,Desperfectos mecánicos,Automóvil,Femenino,1,0,1,Tarde
+588,2025-10-21,20:00,Managua,Desperfectos mecánicos,Camión,Femenino,2,0,2,Noche
+589,2025-10-22,04:00,Matagalpa,No guardar distancia,Automóvil,Masculino,0,0,0,Madrugada
+590,2025-10-22,02:00,Matagalpa,Desperfectos mecánicos,Automóvil,Masculino,1,0,1,Madrugada
+591,2025-10-23,11:00,Managua,Invasión de carril,Motocicleta,Masculino,0,0,0,Mañana
+592,2025-10-23,19:00,Masaya,Exceso de velocidad,Motocicleta,Masculino,2,0,2,Noche
+593,2025-10-24,20:00,Matagalpa,No guardar distancia,Motocicleta,Femenino,0,0,0,Noche
+594,2025-10-24,03:00,Managua,Estado de ebriedad,Motocicleta,Femenino,1,0,1,Madrugada
+595,2025-10-25,20:00,León,Invasión de carril,Camión,Masculino,1,0,1,Noche
+596,2025-10-25,22:00,Matagalpa,No guardar distancia,Motocicleta,Femenino,3,0,3,Noche
+597,2025-10-26,15:00,Managua,Desperfectos mecánicos,Automóvil,Masculino,1,0,1,Tarde
+598,2025-10-26,06:00,Masaya,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Mañana
+599,2025-10-27,12:00,Managua,Desperfectos mecánicos,Motocicleta,Masculino,0,0,0,Tarde
+600,2025-10-27,20:00,Matagalpa,Desperfectos mecánicos,Motocicleta,Femenino,2,0,2,Noche
